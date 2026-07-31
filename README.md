@@ -1,2 +1,2 @@
 # IPL-Analysis
-!Dashboard Images/Dashboard.png
+![Dashboard](Dashboard Images/Dashboard.png)
